@@ -1,4 +1,4 @@
-# tutorial_jwt_BACK
+# BACK
 jwt security api REST 
 
-basic CRUD with JWT authentication based on roles
+lgin with JWT authentication based on roles
